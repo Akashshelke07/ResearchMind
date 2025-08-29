@@ -420,11 +420,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 🆘 Support
-
-- **Documentation**: Check our [docs folder](docs/)
 - **Issues**: Create a GitHub issue
 - **Discussions**: Use GitHub Discussions
-- **Email**: support@researchmind.ai
+- **Email**: akashshelke594@gmail.com
+- **Portfolio**: https://portfolio-g59hnaqmj-akashshelke07s-projects.vercel.app/
 
 ---
 
